@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", () => {
     ];
 
     const texts = [
-        { heading: "Coder's General", subheading: "A group for all your coding needs! Connect with peers and Grow together!" },
+        { heading: "Hackathons", subheading: "Innovate, compete, and code your way to victory at top hackathons!" },
         { heading: "JOBS", subheading: "Job Hunting made easy!" },
         { heading: "Engineering Jobs", subheading: "Struggling to find an engineering job? Let's connect and land one together!" },
         { heading: "Events", subheading: "Bringing unforgettable events to life—let’s create magic together!" },
@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", () => {
         { heading: "Linkedin", subheading:  "Optimize, network, and stand out—make LinkedIn work for you!" },
         { heading: "Internships", subheading: "Kickstart your career with hands-on experience—find the right internship!" },
         { heading: "Study Material", subheading: "Ace your exams with the best study materials at your fingertips!" },
-        { heading: "Hackathons", subheading: "Innovate, compete, and code your way to victory at top hackathons!" },
+        { heading: "Coder's General", subheading: "A group for all your coding needs! Connect with peers and Grow together!" },
         { heading: "Govt. Jobs", subheading: "Secure your future—stay updated on the latest government job opportunities!" },
         { heading: "General", subheading: "Opportunities, insights, and connections—everything you need in one place!" }
     ];
