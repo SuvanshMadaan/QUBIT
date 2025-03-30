@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
     const container = document.getElementById("boxContainer");
     const links = [
-        "https://chat.whatsapp.com/JEqbuUlhVEW8TFwqzKaAk2", "https://chat.whatsapp.com/CgMgHWj39wsCJSHZ9qzV4l", "https://chat.whatsapp.com/KIkdejVKm5y7Eh9YcWxugN", "https://chat.whatsapp.com/DU1NqtE9FqEGviiPxdYVKI", "https://chat.whatsapp.com/I4D19GXvRz02D42eYWHCpE", "https://chat.whatsapp.com/KD7iaSyZqeO1Qc8RbVYFe7", "https://chat.whatsapp.com/Kgq5G5zNENOJfDqAM7Xl3G", "https://chat.whatsapp.com/CnjzgZR8z9WHg7NS2N6MsC", "https://chat.whatsapp.com/INt33o6hR4TG7NoaS8myST", "https://chat.whatsapp.com/Hv1LbQCGox9Itk6EM4CBuq", "https://chat.whatsapp.com/L1bWXEdMDUXJ8H8Eb5cY0K", "https://chat.whatsapp.com/I8h0vIum6Gv31b2ceyAeb6", "https://chat.whatsapp.com/IZRNsWe6OV07wTnlgK7jkj", "https://chat.whatsapp.com/DPwqKtXIxAU8AnpHeebode", "https://chat.whatsapp.com/Ib4i5xA154bLR3aHW0dUEh"
+        "https://chat.whatsapp.com/IZRNsWe6OV07wTnlgK7jkj", "https://chat.whatsapp.com/CgMgHWj39wsCJSHZ9qzV4l", "https://chat.whatsapp.com/KIkdejVKm5y7Eh9YcWxugN", "https://chat.whatsapp.com/DU1NqtE9FqEGviiPxdYVKI", "https://chat.whatsapp.com/I4D19GXvRz02D42eYWHCpE", "https://chat.whatsapp.com/KD7iaSyZqeO1Qc8RbVYFe7", "https://chat.whatsapp.com/Kgq5G5zNENOJfDqAM7Xl3G", "https://chat.whatsapp.com/CnjzgZR8z9WHg7NS2N6MsC", "https://chat.whatsapp.com/INt33o6hR4TG7NoaS8myST", "https://chat.whatsapp.com/Hv1LbQCGox9Itk6EM4CBuq", "https://chat.whatsapp.com/L1bWXEdMDUXJ8H8Eb5cY0K", "https://chat.whatsapp.com/I8h0vIum6Gv31b2ceyAeb6", "https://chat.whatsapp.com/JEqbuUlhVEW8TFwqzKaAk2", "https://chat.whatsapp.com/DPwqKtXIxAU8AnpHeebode", "https://chat.whatsapp.com/Ib4i5xA154bLR3aHW0dUEh"
     ];
 
     const texts = [
